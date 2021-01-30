@@ -32,11 +32,14 @@ Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en Guatem
 <BIG> Estos estadisticas indican frecuencia de uso no habilidad </BIG>
 
 <a href="https://github.com/ImMaur0103/github-readme-stats%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImMaur0103&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImMaur0103&theme=radical&repo=github-readme-stats" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImMaur0103&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ImMaur0103)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><a href="https://github.com/ImMaur0103/github-readme-stats%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImMaur0103&show_icons=true&include_all_commits=true&theme=great-gatsby&line_height=27" alt="Estadísticas Generales" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImMaur0103&show_icons=true&include_all_commits=true&theme=radical&line_height=27" alt="Estadísticas Generales" />
 </a> &nbsp;
 
 ## Conecta conmigo
