@@ -31,17 +31,11 @@ Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en Guatem
 ## Estadísticas
 <BIG> Estos estadisticas indican frecuencia de uso no habilidad </BIG>
 
-<a href="https://github.com/ImMaur0103/github-readme-stats%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImMaur0103&theme=radical&repo=github-readme-stats" />
-</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/ImMaur0103/github-readme-stats%22%3E">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImMaur0103&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</a> &nbsp;
-
 <br><a href="https://github.com/ImMaur0103/github-readme-stats%22%3E">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImMaur0103&show_icons=true&include_all_commits=true&theme=radical&line_height=27" alt="Estadísticas Generales" />
 </a> &nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImMaur0103&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Conecta conmigo
 <a href="https://www.linkedin.com/in/andres-g%C3%A1lvez-920b141b0/%22%3E
