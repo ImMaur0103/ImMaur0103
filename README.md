@@ -29,7 +29,7 @@ Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en Guatem
 </details>
 
 ## Estadísticas
-<BIG> Estos estadisticas indican frecuencia de uso no habilidad <\BIG>
+<BIG> Estos estadisticas indican frecuencia de uso no habilidad </BIG>
 
 <a href="https://github.com/AndresSGalvezA/github-readme-stats%22%3E
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSGalvezA&layout=compact&theme=great-gatsby" />
