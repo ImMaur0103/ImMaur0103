@@ -29,7 +29,7 @@ Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en Guatem
 </details>
 
 ## Estadísticas
-<BIG> Estos estadisticas indican frecuencia de uso no habilidad </BIG>
+<BIG> Estas estadísticas indican frecuencia de uso no habilidad </BIG>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImMaur0103&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
