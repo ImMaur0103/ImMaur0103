@@ -31,12 +31,12 @@ Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en Guatem
 ## Estadísticas
 <BIG> Estos estadisticas indican frecuencia de uso no habilidad </BIG>
 
-<a href="https://github.com/ImMaur0103/github-readme-stats%22%3E
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSGalvezA&layout=compact&theme=great-gatsby" />
+<a href="https://github.com/ImMaur0103/github-readme-stats%22%3E>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMaur0103&layout=compact&theme=great-gatsby" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><a href="https://github.com/ImMaur0103/github-readme-stats%22%3E
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresSGalvezA&show_icons=true&include_all_commits=true&theme=great-gatsby&line_height=27" alt="Estadísticas de Github de Andres" />
+<br><a href="https://github.com/ImMaur0103/github-readme-stats%22%3E>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImMaur0103&show_icons=true&include_all_commits=true&theme=great-gatsby&line_height=27" alt="Estadísticas Generales" />
 </a> &nbsp;
 
 ## Conecta conmigo
