@@ -35,7 +35,7 @@ Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en Guatem
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMaur0103&layout=compact&theme=great-gatsby" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><a href="https://github.com/ImMaur0103/github-readme-stats%22%3E>
+<br><a href="https://github.com/ImMaur0103/github-readme-stats%22%3E">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImMaur0103&show_icons=true&include_all_commits=true&theme=great-gatsby&line_height=27" alt="Estadísticas Generales" />
 </a> &nbsp;
 
