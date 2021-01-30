@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# :desktop: Acerca de mí
-Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en guatemala y soy Venezolano.<br/>
+#Acerca de mí
+Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en Guatemala y soy venezolano.<br/>
 ## Habilidades
 <img src="https://img.shields.io/badge/-C%23-blueviolet" />
+<img src="https://img.shields.io/badge/-C%2B%2B-FF1A6D" />
+<img src="https://img.shields.io/badge/-C-00EFFA" />
+<img src="https://img.shields.io/badge/-Python-00D33Dhttps://img.shields.io/badge/-Python-00D33D" />
+<img src="https://img.shields.io/badge/-Unity-brightgreen" />
+<img src="https://img.shields.io/badge/-HTML-8000BC" />
