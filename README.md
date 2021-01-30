@@ -27,3 +27,25 @@ Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en Guatem
       <li>Ubuntu</li>
     </ul>
 </details>
+
+## Estadísticas
+<BIG> Estos estadisticas indican frecuencia de uso no habilidad <\BIG>
+
+<a href="https://github.com/AndresSGalvezA/github-readme-stats%22%3E
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSGalvezA&layout=compact&theme=great-gatsby" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br><a href="https://github.com/AndresSGalvezA/github-readme-stats%22%3E
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresSGalvezA&show_icons=true&include_all_commits=true&theme=great-gatsby&line_height=27" alt="Estadísticas de Github de Andres" />
+</a> &nbsp;
+
+## Conecta conmigo
+<a href="https://www.linkedin.com/in/andres-g%C3%A1lvez-920b141b0/%22%3E
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/andarrz%22%3E
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="mailto:asgasebastian@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
