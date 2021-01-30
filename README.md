@@ -31,9 +31,6 @@ Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en Guatem
 ## Estadísticas
 <BIG> Estas estadísticas indican frecuencia de uso no habilidad </BIG>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImMaur0103&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImMaur0103&bg_color=30,56CCF2,904e95&title_color=fff&text_color=fff)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImMaur0103&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImMaur0103&bg_color=30,56CCF2,904e95&title_color=fff&text_color=fff&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
