@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 # Acerca de mí / About me
 ### Español
 Mi Nombre es Mauricio López, soy estudiante de ingenieria en sistemas en Guatemala y soy venezolano.<br/>
-Trabajo de Pasante en Banco Agromercantil de Guatemala.<br/>
 ### English
 My name is Mauricio López, I am a systems engineering student in Guatemala and I am Venezuelan. <br/>
-Intern at Banco Agromercantil de Guatemala. <br/>
 # Habilidades / Skills
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-FF1A6D" /> <img src="https://img.shields.io/badge/-C-00EFFA" /> <img src="https://img.shields.io/badge/-Python-D1F700" /> <img src="https://img.shields.io/badge/-Unity-brightgreen" /> <img src="https://img.shields.io/badge/-CONSTRUCT%203-%2308DCD6" /> <img src="https://img.shields.io/badge/-HTML-8000BC" /> <img src="https://img.shields.io/badge/-CSS-A913C8" /> <img src="https://img.shields.io/badge/-Power%20Automate-%230013FF%20" />
 
